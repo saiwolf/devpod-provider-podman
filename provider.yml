@@ -1,7 +1,7 @@
 name: podman
 version: v0.0.1
-icon: https://github.com/ThomasVitale/devpod-provider-podman/blob/main/images/podman-logo-source.svg
-home: https://github.com/ThomasVitale/devpod-provider-podman
+icon: https://github.com/saiwolf/devpod-provider-podman/raw/refs/heads/main/images/podman-logo-source.svg
+home: https://github.com/saiwolf/devpod-provider-podman
 description: |-
   DevPod on Podman
 optionGroups:
